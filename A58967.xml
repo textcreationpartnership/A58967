@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad, amazing and dreadful relation of a farmer's wife, near Wallingford in Barkshire who abusing her husband, for selling cor[n] cheap to the poor, and wishing, the dev[il] might thrash, the next day found him thrashing in the barn, and was by him thrown o[n] the mow, remaining there in a pitious manne[r] not to be removed, feeding on the ears o[f] corn, and refusing all other food. With her description of the devil; ho[w] he vanished from her, and a great quantit[y] of corn he had thrashed was found black an[d] burned.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58967</idno>
+            <idno type="STC">Wing S226A</idno>
+            <idno type="STC">ESTC R219822</idno>
+            <idno type="EEBO-CITATION">99831269</idno>
+            <idno type="PROQUEST">99831269</idno>
+            <idno type="VID">35732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35732)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad, amazing and dreadful relation of a farmer's wife, near Wallingford in Barkshire who abusing her husband, for selling cor[n] cheap to the poor, and wishing, the dev[il] might thrash, the next day found him thrashing in the barn, and was by him thrown o[n] the mow, remaining there in a pitious manne[r] not to be removed, feeding on the ears o[f] corn, and refusing all other food. With her description of the devil; ho[w] he vanished from her, and a great quantit[y] of corn he had thrashed was found black an[d] burned.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by J.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cropped and tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devil --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35732:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>A Sad, Amazing and Dreadful RELATION OF A <hi>Farmer's Wife,</hi> NEAR <hi>WALLINGFORD</hi> in <hi>Barkſhire</hi> WHO Abuſing her Husband, for Selling Cor<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cheap to the POOR, and wiſhing, <hi>The Dev<gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> might Thraſh,</hi> the next Day found him Thraſh<g ref="char:EOLunhyphen"/>ing in the Barn, and was by him thrown o<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Mow, remaining there in a pitious manne<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to be removed, feeding on the Ears o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Corn, and refuſing all other Food.</p>
+            <p>WITH Her Deſcription of the DEVIL; ho<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he vaniſhed from her, and a great Quantit<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Corn he had Thraſhed was found black an<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> burned.</p>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>J. W.</hi> 1697.</p>
+            <pb facs="tcp:35732:2"/>
+            <!-- PDF PAGE 75 -->
+            <pb facs="tcp:35732:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 75 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:35732:3"/>
+            <!-- PDF PAGE 76 -->
+            <head>A Sad, Amazing and Dreadful RELATION OF A <hi>Farmer's Wife,</hi> NEAR <hi>WALLINGFORD</hi> in <hi>Barkſhire,</hi> WHO Abuſing her Husband, for Selling Corn cheap to the POOR, and wiſhing, <hi>The Devil might Thraſh,</hi> the next Day found him Thraſh<g ref="char:EOLhyphen"/>ing, <hi>&amp;c.</hi>
+            </head>
+            <p>MAny things at firſt view may ſeem to Mankind ſo ſtrange and amazing, as to <hi>doubt</hi> or <hi>ſtagger</hi> his Belief, but then when they ſeriouſly deliberate and find thing<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as ſtrange very often as undeniably verified, they muſt admire the wonderful Order of Providence, in acting and diſpoſing of things below in ſuch a manner as paſſeth our underſtanding, and this extends either to Mercy, in <hi>favouring, feeding</hi> and <hi>protecting</hi> Mankind againſt Dangers, or in Puniſh<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:35732:3"/>
+               <!-- PDF PAGE 76 -->in bringing on him Want, Miſery and Pu<g ref="char:EOLhyphen"/>niſhment, by Temptations or other grievous <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ays, as our Sins and Repinings draw upon us, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when God has given us Plenty and we ſhut up <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Bowels of Compaſſion to the Poor, that are <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> want, then Blaſts and Mildews often fall upon <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Corn and Fruits of the Earth, becauſe God, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho gives all increaſe, is diſhonoured, by our <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovetouſneſs and Ingratitude; ſo that evil Spirits <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſometimes made his Miniſters of Vengeance in <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>undry kinds to wreck their Fury, as will ſadly <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppear in the following dreadful Relation, which <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as of late occaſioned ſo much Diſcourſe in divers <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arts of this Kingdom, being, for the ſtrangeneſs <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f it, without parallel: But, not to detain you from the Subject-matter,</p>
+            <p>It ſo happen'd of late, That a Rich Farmer whom God had bleſſed with plentiful Crops of of Corn for ſome Years paſt, living near <hi>Walling<g ref="char:EOLhyphen"/>ford,</hi> in the County of <hi>Bucks;</hi> ſo that having his <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arns full ſtored, and hearing the Markets grew <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>canty, and the Price was much raiſed, (to the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat Grief and Pining of the Poor in theſe hard Times, when Work it ſelf is ſcarce, and Money <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven by that not eaſily to be come by, for the <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upplying the craving Neceſſities of a Family in a <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear Year) he opened ſeveral <hi>Mows</hi> that had not <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore been touched and thraſhed great quantities, which he ſold in the neighbouring <hi>Market<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> and
+<pb n="4" facs="tcp:35732:4"/>
+               <!-- PDF PAGE 77 -->
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſeveral <hi>Mealmen,</hi> who came to buy it at the <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arn floor, thereby getting great Rates, by which means he gained conſiderable Sums of Money more <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han he expected: But he one Evening coming <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom Market, and giving his Wife an Account of <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Day's Marketting, and how he had ſold, ſhe being always ſevere in Exacting, which, it ſeems, <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or quietneſs ſake he uſually did; or, as ſome ſay, <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he b<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng ſuch a Shrew, he durſt not do otherwiſe, <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing all the Rule, ſhe found by the Money he had not given her a true Account, and to concluded he had underſold, and forc<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him to a freer confeſſion; which was, That he had opened ſome Sacks and ſold to the Poor, that were very neceſſitous and flocked thither in great Numbers, ſome with Tears in their Eyes, at lower Rates<g ref="char:punc">▪</g> as being moved to compaſſion at their declaring their Neceſſities and Inabilities to ſupport themſelves and their Children, bidding her be patient and expect God's Bleſſing to make it up manifold.</p>
+            <p>Upon this ſhe fell into a paſſionate Rage, railing at him in a grievous manner, calling him Fool and Sot, and that he ought to conſider his own Intereſt before that of a parcel of Whores and Rogues, and their Baſtards, being a lazy Pack, who minded not ſo much to work, as to increaſe the Charge of Pariſhes, and to eat up what ſhe and others la<g ref="char:EOLhyphen"/>boured for, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:35732:4"/>
+               <!-- PDF PAGE 77 -->
+The <hi>good Man</hi> endeavoured to pacifie her, by putting her in mind, that they had plenty and ſo felt not the wants of the Poor, and ſince ſuch a Mercy was extended to them, it was but reaſon for his ſake who had bleſſed their Endeavours, and <hi>given</hi> it them, that they ſhould do ſome <hi>good</hi> in their Generation.</p>
+            <p>But this not at all moving her to pity, ſhe grew more outragious, ſaying, <hi>None had helped her to the worth of a Penny, but what ſhe had gotten by riſing early and ſitting up late; and ſhe was beholden to none, as ſhe knew of for a Earthing.</hi>
+            </p>
+            <p>He upon this pleading the <hi>goodneſs of Providence,</hi> to ſhew her her error, ſhe <hi>grew</hi> more enraged, calling him <hi>Sot and Fool,</hi> ſwearing <hi>ſhe would have her will<g ref="char:punc">▪</g>
+               </hi> and ſeeing the Rains fell very much and the Harveſt like, or at leaſt, as moſt who are for Self-intereſt pretend, to be bad, ſhe reſolved, that no more ſhould be thraſhed, but ſhe would have it kept for <hi>dearer Markets,</hi> which ſhe ſaid, ſhe foreſaw would ſoon grow to a great rate, by reaſon of the Rains. So that by this we may ſee what God ſends as a <hi>general Good,</hi> is often laid hold on by wretched covetous People, to advan<g ref="char:EOLhyphen"/>tage and inrich themſelves, in <hi>grinding the face of the Poor.</hi> The <hi>Man</hi> then deſired, he might thraſh ſome to ſell to the Poor People in the Pariſh where he lived, who could get none at any rate
+<pb n="6" facs="tcp:35732:5"/>
+               <!-- PDF PAGE 78 -->near at hand. But that was refuſed him, <hi>command<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him to turn off the Taskers, or ſhe would break their <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cks out of the Barn.</hi> This Diſcourſe happening, <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Farmer</hi> was forced to conſent, and ſo payed <gap reason="illegible: page cropped" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m off, till he could get their Dame in a better <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mour, and give them further notice: But the <hi>
+                  <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an</hi> being importuned for <hi>Corn,</hi> he lay at her; <hi>
+                  <gap reason="illegible: page cropped" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t he might ſet the Men to work again. Set the <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en to work!</hi> replied ſhe angrily, <hi>The Devil ſhall <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aſh it firſt; or I'll ſit on the M<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>, and eat of the <gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs my ſelf, before I'll have it <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> out to be ſold <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pitiful Rates,</hi> and ſome other the like Diſcourſe <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ppened between them, and ſo to Bed they went. <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a little before break of Day the Woman was <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akened with the thundring Noiſe of <hi>Flails in the <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arn,</hi> which made it ſeem to her as if there had <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een twenty Men at work: The Woman, upon <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is, thinking her Husband had ſet the <hi>Men</hi> on <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ork, waked him and upbraided him with it; <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut he proteſted, <hi>That he had diſcharged them, and <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>new not of any Bodies being there, for the Key of the <gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arn lay on the Shelf in the Kitchen.</hi>
+            </p>
+            <p>The Woman, not believing him, riſe in a rage, <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o turn out the ſuppoſed Thraſhers, who, finding <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Key as her Husband ſaid, fancied nevertheleſs <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey might have got in at the Pitching-bay, and <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hither ſhe went, but had no ſooner opened the Door but the <hi>Barn</hi> appeared very light within, <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho' there were neither <hi>Candle</hi> nor any thing that
+<pb n="7" facs="tcp:35732:5"/>
+               <!-- PDF PAGE 78 -->could reaſonably give it to be ſeen; and there found a <hi>tall Fellow in black a thraſhing,</hi> who <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> done ſo much Work, that there lay <hi>huge heap <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Straw,</hi> and a <hi>little black Boy</hi> threw down <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Sheaves</hi> to him as faſt as he thraſhed; whereat <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>falling in a paſſion,</hi> began to treat him by the Na<gap reason="illegible: page cropped" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> of <hi>Rogue and Villain, charging him to be gone, or <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would break his Neck:</hi> but he ſeemed not to mi<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her, his <hi>Back</hi> being towards her, but plied <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Task, till <hi>Anger</hi> moved her <hi>to ſtrike at him</hi> a<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> attempt <hi>to tear his Hair;</hi> but ſhe, inſtead of <hi>Ha<gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ſeemed to lay hold on a <hi>Fire,</hi> that ſcorch'd her <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſhe cried out, <hi>O Lord, have mercy on me, wh<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is this?</hi> Whereat the <hi>ſuppoſed Man</hi> took her <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Arm,</hi> ſaying, <hi>I go, but you muſt ſtay;</hi> an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> canting her on the <hi>Mow,</hi> vaniſhed through th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Roof in a <hi>Cloud of Smoke,</hi> taking ſome part of <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with him, as alſo his <hi>Imp</hi> that attended him.</p>
+            <p>And now <hi>Day-light</hi> coming pretty clear, th<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Noiſe of the Flails</hi> ceaſed, and the <hi>Wife not returning</hi> he went to ſee <hi>why ſhe ſtayed,</hi> and ſeeing her o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Mow,</hi> called to her; but ſhe could not ſpeak yet in her looks ſhewed much <hi>horror</hi> and <hi>affright<g ref="char:EOLunhyphen"/>ment,</hi> when <hi>going</hi> up to her, he ſound her faſt an<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> immoveable, all his <hi>ſtrength</hi> not being able to ſti<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her: And looking on this as ſome <hi>Judgment,</hi> h<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called ſome <hi>Neighbours,</hi> who <hi>prayed for her<g ref="char:punc">▪</g>
+               </hi> the<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her <hi>Speech</hi> came to her again, and ſhe confeſſed, i<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>was a Judgment upon her, by the conviction of her mind
+<pb n="8" facs="tcp:35732:6"/>
+                  <!-- PDF PAGE 79 -->telling what ſhe had ſeen, and how ſhe came on the Mow, ſhowing the Hole in the Roof, and pointing to the Corn;</hi> when they went to look on it, <hi>being a great quantity,</hi> more than two Men could thr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh in a Day, they found it all <hi>black, parched,</hi> and as i<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were <hi>burned,</hi> being good for nothing, but to feed <hi>Hogs;</hi> and it is affirmed, That the <hi>Woman</hi> ſoon after telling the <hi>Story,</hi> falling into <hi>Ravings,</hi> decla<g ref="char:EOLunhyphen"/>red, <hi>It was revealed, or whiſpered in her Ear, Tha<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe was under the Juſt Hand of God, whom ſhe ha<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> offended, and could not be renounced thence, till a cer<g ref="char:EOLunhyphen"/>tain time.</hi> And ſo ſhe continued <hi>Eating the Ears o<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Corn,</hi> refuſing all other <hi>Food,</hi> whil'ſt <hi>Prayer<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> were made for her, <hi>That God would be merciful <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her, and remove this Heavy Judgment from her.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licens'd according to Order.</p>
+            <pb facs="tcp:35732:6"/>
+            <!-- PDF PAGE 79 -->
+         </div>
+      </back>
+   </text>
+</TEI>
